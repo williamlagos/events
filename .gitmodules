@@ -4,3 +4,6 @@
 [submodule "android"]
 	path = android
 	url = git@github.com:williamlagos/events-android.git
+[submodule "web"]
+	path = web
+	url = git@github.com:williamlagos/events-web.git
